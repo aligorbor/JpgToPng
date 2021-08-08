@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jpg To Png</string>
+    <string name="conv_in_progr">Convertation in progress...</string>
+    <string name="conv_cancel">Convertation Cancelled!</string>
+    <string name="load">Load</string>
+    <string name="convert">Convert</string>
+    <string name="cancel">Cancel</string>
 </resources>
